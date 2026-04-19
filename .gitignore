@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*$py.class
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Logs
+logs/
+*.log
+
+# Backtest cache (büyük)
+backtest/cache/
+ml/out/*.pkl
+ml/out/*.parquet
+ml/out/*.csv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
