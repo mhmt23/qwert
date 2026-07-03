@@ -1,0 +1,5 @@
+# Faz 0 iskeleti yalnızca Python standart kütüphanesini kullanır.
+# İleriki fazlar için (yorum satırında, henüz gerekmiyor):
+# pytest>=8.0        # test koşucusu
+# pydantic>=2.0      # olay şeması doğrulama
+# rich>=13.0         # renkli CLI çıktısı
