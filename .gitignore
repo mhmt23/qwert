@@ -30,3 +30,6 @@ ml/out/*.csv
 .vscode/
 *.swp
 .DS_Store
+
+# Denetim hedef kodları (üçüncü taraf, commit edilmez)
+audit/targets/
